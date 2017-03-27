@@ -8,8 +8,8 @@ We have seen issues with certain combinations of versions of pitest and TestNG w
 |-------------|--------|----------|------|------|
 |             |        | 6.9.13.6 | 6.10 | 6.11 |
 | **pi test** | 1.1.4  | OK       | OK   | OK   |
-|             | 1.1.5  | NOK      | NOK  | NOK  |
-|             | 1.1.11 | NOK      | NOK  | NOK  |
+|             | 1.1.5  | OK       | NOK  | NOK  |
+|             | 1.1.11 | OK       | NOK  | NOK  |
 
 ### Run script
 `mvn clean test org.pitest:pitest-maven:mutationCoverage`
