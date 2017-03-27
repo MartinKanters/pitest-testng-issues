@@ -1,6 +1,6 @@
 # Test issues for pitest + TestNG
 
-We have seen issues with certain combinations of versions of pitest and TestNG which end up in survived mutants while they are false positives.
+We have seen issues with certain combinations of versions of pitest and TestNG which end up in survived mutants while they are false positives. [Created an issue for pitest](https://github.com/hcoles/pitest/issues/334)
 
 ### Versions
 
